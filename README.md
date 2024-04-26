@@ -11,4 +11,5 @@
 7. If you are bored, look into our jokes and facts section under About Us.
 8. You can switch between dark and light themes.
 
+## Deployment
 The website is live at https://snapsumcr2203.netlify.app/
